@@ -21,6 +21,7 @@ sodass alle Familienmitglieder oder WG Mitbewohner die Liste gemeinsam nutzen kÃ
 Beim Starten der Applikation sieht man eine Liste an Einkaufslisten.
 Beim ersten Start befindet man sich im lokalen Arbeitsbereich.
 Mit dem Plus lassen sich neue Listen erstellen.  
+<img src="./images/Master%20View.png" height="50vh"/>  
 ![image](./images/Master%20View.png)  
 *Startansicht der App mit erstellten Listen*
 
